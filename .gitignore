@@ -1,0 +1,16 @@
+# Compiled output
+MD/C/MD
+MD/C/*.o
+MD/Test/diff-output
+*.dSYM/
+
+# Generated simulation and benchmark data
+MD/C/output.dat*
+MD/results/
+*.log
+*.out
+*.err
+
+# Local analysis
+.ipynb_checkpoints/
+.DS_Store
